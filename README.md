@@ -1,3 +1,6 @@
+>[!IMPORTANT]
+>!!! Fork of the official Tuya Platform Homebridge Plugin released by Tuya to fix Homebridge v2 incompatibilites. !!!
+
 Tuya Homebridge Plugin
 ========================
 
