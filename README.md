@@ -1,5 +1,6 @@
->[!IMPORTANT]
->!!! Fork of the official Tuya Platform Homebridge Plugin released by Tuya to fix Homebridge v2 incompatibilites. !!!
+### !!! IMPORTANT: Forked official Tuya Platform Homebridge Plugin to fix Homebridge v2 incompatibilites. !!!
+
+*********
 
 Tuya Homebridge Plugin
 ========================
@@ -76,7 +77,7 @@ If you are a smart home geek and have a bundle of devices from different platfor
 
 ## Feedback
 
-You can use the **GitHub Issue** or [**tickets**](https://service.console.tuya.com/8/2/list?_source=c5965e0f53c87ba9d0eb99af0f4b124f) to provide feedback on any problems you encounter.
+You can use the **GitHub Issue** to provide feedback on any problems you encounter.
 
 ## Beta version
 Tuya plugin for Hombridge, maintained by @0x5e, former employee of Tuya.

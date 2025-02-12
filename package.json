@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-tuya-platform",
-  "version": "2.0.0",
-  "description": "Fork of the official Homebridge plugin for Tuya Open API.",
+  "name": "@skra72/homebridge-tuya-platform",
+  "version": "1.0.1",
+  "description": "Fork of the official Homebridge plugin for Tuya Open API. Fixes Homebridge v2 incompatibilities",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
