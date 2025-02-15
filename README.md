@@ -1,5 +1,10 @@
 ### !!! IMPORTANT: Forked official Tuya Platform Homebridge Plugin to fix Homebridge v2 incompatibilites. !!!
 
+Installation:
+
+1. Uninstall the original Tuya Platform plugin if already installed.
+2. Install this patched plugin-version with <br> ```npm install @skra72/homebridge-tuya-platform``` <br> or <br> ```hb-service add @skra72/homebridge-tuya-platform```
+
 *********
 
 Tuya Homebridge Plugin
