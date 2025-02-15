@@ -1,6 +1,6 @@
 {
   "name": "@skra72/homebridge-tuya-platform",
-  "version": "1.0.1",
+  "version": "1.5.2",
   "description": "Fork of the official Homebridge plugin for Tuya Open API. Fixes Homebridge v2 incompatibilities",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
     "dev": " homebridge -D -U ./config/ -P ./"
   },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin",
+    "homebridge",
+    "tuya"
   ],
   "author": "skra72",
   "license": "MIT",
